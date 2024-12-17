@@ -1,0 +1,30 @@
+git init
+git status
+git add -A
+git commit -m "message"
+
+git config --global user.email "jagnsirlu@gmail.com"
+
+git config --global user.name "Jagan0421"
+
+git remote add origin https://github.com/Jagan421/Git-_Commands.txt.git
+
+git push -u origin master
+
+git branch
+
+git branch "branch_name"
+
+git checkout "branch_name"
+
+git log
+
+git clone https://github.com/Jagan421/Git-_Commands.txt.git
+
+git revert "commitId"
+
+git fetch
+
+git pull
+
+git push 
