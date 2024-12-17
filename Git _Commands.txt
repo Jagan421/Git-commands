@@ -28,3 +28,4 @@ git fetch
 git pull
 
 git push 
+git test
